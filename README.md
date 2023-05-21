@@ -4,6 +4,12 @@ As a developer, I created an application that can be used to write and save note
 
 ## URL Links
 
+https://github.com/maeahmad/Note-Taking
+
+![screencapture-radiant-waters-02522-herokuapp-notes-2023-05-21-12_53_15](https://github.com/maeahmad/Note-Taking/assets/122010497/e7a43a46-4be8-42ce-9c5f-4fe67df005cf)
+
+https://note-taking-formae.herokuapp.com/
+https://dashboard.heroku.com/apps/note-taking-formae
 
 ## About
 - As user open the Note Take, they can click on button with a link to a notes page. 
